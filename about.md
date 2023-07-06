@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact Me
-permalink: /about/
+permalink: contact
 ---
 
 Feel free to reach out. You can contact me at the following:

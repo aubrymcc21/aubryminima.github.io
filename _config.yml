@@ -1,4 +1,4 @@
-title: Aubry McConnell
+title: Home
 author:
   name: Aubry McConnell
   email: aubrymcc21@gmail.com
@@ -18,10 +18,13 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+#collections:
+#  - _posts
+
 # Theme-specific settings
 
 minima:
-  skin: solarized-dark
+  skin: dark
   # Minima date format.
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   #
@@ -55,3 +58,5 @@ minima:
 # Set to `true` to show excerpts on the homepage.
 #
 # show_excerpts: false
+
+permalink: /:title.html
