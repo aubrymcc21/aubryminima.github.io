@@ -167,6 +167,14 @@ code {
   background-color: $code-background-color;
 }
 
+.header {
+  font-family: $code-font-family;
+  font-size: 12;
+  border: 1px solid $border-color-01;
+  border-radius: 3px;
+  background-color: $code-background-color;
+}
+
 code {
   padding: 1px 5px;
 }
@@ -191,7 +199,6 @@ pre {
     background: $code-background-color;
   }
 }
-
 
 
 /**
