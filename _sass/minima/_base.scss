@@ -10,7 +10,6 @@ p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0;
-
 }
 
 
@@ -20,8 +19,13 @@ dl, dd, ol, ul, figure {
  */
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
-  color: $text-color;
-  background-color: $background-color;
+  color: lightgoldenrodyellow;
+  div{
+    background-color: #2e2e2e;
+  }
+  //background-color: <div class="simple-linear"></div>;
+  //background: linear-gradient(#8780ebf1, #000000); //background text color
+  background-image: linear-gradient(#7ca8f3, #2272FF, #000000);
   -webkit-text-size-adjust: 100%;
   -webkit-font-feature-settings: "kern" 1;
      -moz-font-feature-settings: "kern" 1;
@@ -104,6 +108,7 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
   font-weight: $base-font-weight;
+  color: white;
 }
 
 
@@ -112,15 +117,15 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: $link-base-color;
+  color: gold;
   text-decoration: none;
 
   &:visited {
-    color: $link-visited-color;
+    color: rgb(227, 178, 54);
   }
 
   &:hover {
-    color: $link-hover-color;
+    color: white;
     text-decoration: underline;
   }
 
@@ -198,6 +203,10 @@ pre {
   .highlighter-rouge & {
     background: $code-background-color;
   }
+}
+
+.simple-linear {
+  background-color: linear-gradient(blue, pink);
 }
 
 

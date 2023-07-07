@@ -11,7 +11,7 @@
   position: relative;
 }
 
-.site-title {
+.site-title { //Home
   @include relative-font-size(1.625);
   font-weight: 300;
   letter-spacing: -1px;
@@ -24,7 +24,7 @@
 
   &,
   &:visited {
-    color: $site-title-color;
+    color: gold;
   }
 }
 
@@ -73,8 +73,8 @@
     padding-bottom: 5px;
   }
 
-  .page-link {
-    color: $text-color;
+  .page-link { //Contact Me
+    color: gold;
     line-height: $base-line-height;
     display: block;
     padding: 5px 10px;
@@ -255,7 +255,7 @@
 .post-content {
   margin-bottom: $spacing-unit;
 
-  h1, h2, h3, h4, h5, h6 { margin-top: $spacing-unit }
+  h1, h2, h3, h4, h5, h6 {margin-top: $spacing-unit }
 
   h2 {
     @include relative-font-size(1.75);
