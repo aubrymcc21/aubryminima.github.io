@@ -9,11 +9,16 @@ permalink: education
 
 
 <h2 class="post-title p-name"><span class="white">College Education</span></h2>
-- Clemson University, Bachelor of Science in Computer Science \| GPA 3.6 \| 2023
+- Clemson University, Bachelor of Science in Computer Science \| 2023
+- - Dean's List \| GPA 3.6
 - - Minors in Cybersecurity & Communication
+- - CU Cyber, CUHackit, and Girls Who Code clubs
+- - Spanish Club
 <h2 class="post-title p-name"><span class="white">High School</span></h2>
 - Academic Magnet High School \| 2019
 - - Spanish Honors Society
+- - Softball & basketball teams
+- - Chess club
 
 
 
