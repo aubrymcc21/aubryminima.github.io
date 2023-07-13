@@ -5,7 +5,7 @@ permalink: education
 ---
 <h1 class="post-title p-name"><span class="gold"> <div style="text-align:center"> Education </div></span></h1>
 
-<div style="text-align: center"><img src="./assets/images/GradPic.jpg" width="350"></div>
+<div style="text-align: center"><img src="./assets/files/GradPic.jpg" width="350"></div>
 
 
 <h2 class="post-title p-name"><span class="white">College Education</span></h2>
